@@ -79,7 +79,7 @@ h1:after {
 .como_funciona{
 	padding-top: 100px;
 	padding-bottom: 100px;
-	background-color: #f6f6f6;
+	background: red;
 }
 .como_funciona h2{
 	position: relative;
